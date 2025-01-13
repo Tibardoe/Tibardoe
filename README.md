@@ -28,7 +28,7 @@ A passionate **Full-Stack Developer** who loves creating and delivering tech sol
 
 ### 📫 Let's Connect!  
 - **GitHub**: [Tibardoe](https://github.com/Tibardoe)  
-- **LinkedIn**: [Benjamin Tibardoe](#)  
+- **LinkedIn**: [Benjamin Tibardoe](https://www.linkedin.com/in/tibardoe-benjamin)  
 
 ---
 
